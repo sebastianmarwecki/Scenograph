@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 8b17213e1fb797649897eb37c58e00f7
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Black Animal Car
+    100002: Black Liquid Car
+    100004: Black Materials Car
+    100006: Black Pasenger Car
+    100008: Black Pasenger Car w/Interior
+    100010: Black Veggies Car
+    100012: Blue  Pasenger Car
+    100014: Blue Animal Car
+    100016: Blue Items Car
+    100018: Blue Liquid Car
+    100020: Blue Materials Car
+    100022: Blue Pasenger Car w/Interior
+    100024: Blue Simple Car
+    100026: Blue Veggies Car
+    100028: Brown Animal Car
+    100030: Brown Items Car
+    100032: Brown Materials Car
+    100034: Brown Veggies Car
+    100036: Cube.015
+    100038: Cube.016
+    100040: Cube.017
+    100042: Empty Car
+    100044: Empty Car Small
+    100046: Green Animal Car
+    100048: Green Items Car
+    100050: Green Liquid Car
+    100052: Green Materials Car
+    100054: Green Pasenger Car
+    100056: Green Pasenger Car w/Interior
+    100058: Green Simple Car
+    100060: Green Veggies Car
+    100062: Grey Animal Car
+    100064: Grey Items Car
+    100066: Grey Liquid Car
+    100068: Grey Pasenger Car
+    100070: Grey Pasenger Car w/Interior
+    100072: Grey Simple Car
+    100074: Grey Veggies Car
+    100076: Light Grey Animal Car
+    100078: Logs Car 1
+    100080: Logs Car 2
+    100082: Logs Car 3
+    100084: Logs Car 4
+    100086: Logs Car 5
+    100088: Logs Car 6
+    100090: Logs Car 7
+    100092: //RootNode
+    100094: Orange Pasenger Car
+    100096: Orange Pasenger Car w/Interior
+    100098: Orange Simple Car
+    100100: Pink Items Car
+    100102: Pink Materials Car
+    100104: Purple Animal Car
+    100106: Purple Items Car
+    100108: Purple Simple Car
+    100110: Purple Veggies Car
+    100112: Red Liquid car
+    100114: Red Materials Car
+    100116: Red Pasenger Car
+    100118: Red Pasenger Car w/Interior
+    100120: Red Simple Car
+    100122: Red Veggies Car
+    100124: Slope Example
+    100126: Slope Smooth Example 1
+    100128: Slope Smooth Example 2
+    100130: Slope Smooth Example 3
+    100132: Support Pillar Reinforcement
+    100134: Support Pillar Size 1
+    100136: Support Pillar Size 2
+    100138: Support Pillar Size 3
+    100140: Support Pillar Size 4
+    100142: Support Pillar Size 5
+    100144: Support Pillar Size 6
+    100146: Support Pillar Wood Size 1
+    100148: Support Pillar Wood Size 2
+    100150: Support Pillar Wood Size 3
+    100152: Track
+    100154: Track Bent
+    100156: Track Bent Down
+    100158: Track Bent Up
+    100160: Track Crossroad
+    100162: Track Crossroad Example
+    100164: Track Long
+    100166: Track Medium
+    100168: Track Medium Turn
+    100170: Track Medium Turn 2
+    100172: Track Medium Turn 2 Example
+    100174: Track Part Example 1
+    100176: Track Part Example 2
+    100178: Track Part Example 3
+    100180: Track Part Example 3.001
+    100182: Track Sharp Turn
+    100184: Track Short
+    100186: Track Slope
+    100188: Track Slope Bent Down
+    100190: Track Slope Bent Up
+    100192: Track Small Turn Left
+    100194: Track Small Turn Right
+    100196: Track Split
+    100198: Track Split Example
+    100200: Track Threeway Crossroad
+    100202: 'Track Turn Example '
+    100204: Track Turn Medium
+    100206: Track Turn Sharp
+    100208: Track Turn Wide
+    100210: Track Turn Wide Example
+    100212: Track X Cross Example
+    100214: Track X Crossroad
+    100216: Train 1
+    100218: Train 1.001
+    100220: Train 2
+    100222: Train 2.001
+    100224: Train 3
+    100226: Train 3.001
+    100228: Train 4
+    100230: Train 4.001
+    100232: White Liquid Car
+    100234: White Materials Car
+    100236: Yellow Items Car
+    100238: Yellow Liquid Car
+    100240: Yellow Simple Car
+    100242: Train 1 Black
+    100244: Train 2 Black
+    100246: Train 3 Black
+    100248: Train 4 Black
+    100250: Track Part Example 4
+    100252: Example Railroad Track
+    400000: Black Animal Car
+    400002: Black Liquid Car
+    400004: Black Materials Car
+    400006: Black Pasenger Car
+    400008: Black Pasenger Car w/Interior
+    400010: Black Veggies Car
+    400012: Blue  Pasenger Car
+    400014: Blue Animal Car
+    400016: Blue Items Car
+    400018: Blue Liquid Car
+    400020: Blue Materials Car
+    400022: Blue Pasenger Car w/Interior
+    400024: Blue Simple Car
+    400026: Blue Veggies Car
+    400028: Brown Animal Car
+    400030: Brown Items Car
+    400032: Brown Materials Car
+    400034: Brown Veggies Car
+    400036: Cube.015
+    400038: Cube.016
+    400040: Cube.017
+    400042: Empty Car
+    400044: Empty Car Small
+    400046: Green Animal Car
+    400048: Green Items Car
+    400050: Green Liquid Car
+    400052: Green Materials Car
+    400054: Green Pasenger Car
+    400056: Green Pasenger Car w/Interior
+    400058: Green Simple Car
+    400060: Green Veggies Car
+    400062: Grey Animal Car
+    400064: Grey Items Car
+    400066: Grey Liquid Car
+    400068: Grey Pasenger Car
+    400070: Grey Pasenger Car w/Interior
+    400072: Grey Simple Car
+    400074: Grey Veggies Car
+    400076: Light Grey Animal Car
+    400078: Logs Car 1
+    400080: Logs Car 2
+    400082: Logs Car 3
+    400084: Logs Car 4
+    400086: Logs Car 5
+    400088: Logs Car 6
+    400090: Logs Car 7
+    400092: //RootNode
+    400094: Orange Pasenger Car
+    400096: Orange Pasenger Car w/Interior
+    400098: Orange Simple Car
+    400100: Pink Items Car
+    400102: Pink Materials Car
+    400104: Purple Animal Car
+    400106: Purple Items Car
+    400108: Purple Simple Car
+    400110: Purple Veggies Car
+    400112: Red Liquid car
+    400114: Red Materials Car
+    400116: Red Pasenger Car
+    400118: Red Pasenger Car w/Interior
+    400120: Red Simple Car
+    400122: Red Veggies Car
+    400124: Slope Example
+    400126: Slope Smooth Example 1
+    400128: Slope Smooth Example 2
+    400130: Slope Smooth Example 3
+    400132: Support Pillar Reinforcement
+    400134: Support Pillar Size 1
+    400136: Support Pillar Size 2
+    400138: Support Pillar Size 3
+    400140: Support Pillar Size 4
+    400142: Support Pillar Size 5
+    400144: Support Pillar Size 6
+    400146: Support Pillar Wood Size 1
+    400148: Support Pillar Wood Size 2
+    400150: Support Pillar Wood Size 3
+    400152: Track
+    400154: Track Bent
+    400156: Track Bent Down
+    400158: Track Bent Up
+    400160: Track Crossroad
+    400162: Track Crossroad Example
+    400164: Track Long
+    400166: Track Medium
+    400168: Track Medium Turn
+    400170: Track Medium Turn 2
+    400172: Track Medium Turn 2 Example
+    400174: Track Part Example 1
+    400176: Track Part Example 2
+    400178: Track Part Example 3
+    400180: Track Part Example 3.001
+    400182: Track Sharp Turn
+    400184: Track Short
+    400186: Track Slope
+    400188: Track Slope Bent Down
+    400190: Track Slope Bent Up
+    400192: Track Small Turn Left
+    400194: Track Small Turn Right
+    400196: Track Split
+    400198: Track Split Example
+    400200: Track Threeway Crossroad
+    400202: 'Track Turn Example '
+    400204: Track Turn Medium
+    400206: Track Turn Sharp
+    400208: Track Turn Wide
+    400210: Track Turn Wide Example
+    400212: Track X Cross Example
+    400214: Track X Crossroad
+    400216: Train 1
+    400218: Train 1.001
+    400220: Train 2
+    400222: Train 2.001
+    400224: Train 3
+    400226: Train 3.001
+    400228: Train 4
+    400230: Train 4.001
+    400232: White Liquid Car
+    400234: White Materials Car
+    400236: Yellow Items Car
+    400238: Yellow Liquid Car
+    400240: Yellow Simple Car
+    400242: Train 1 Black
+    400244: Train 2 Black
+    400246: Train 3 Black
+    400248: Train 4 Black
+    400250: Track Part Example 4
+    400252: Example Railroad Track
+    2300000: Black Animal Car
+    2300002: Black Liquid Car
+    2300004: Black Materials Car
+    2300006: Black Pasenger Car
+    2300008: Black Pasenger Car w/Interior
+    2300010: Black Veggies Car
+    2300012: Blue  Pasenger Car
+    2300014: Blue Animal Car
+    2300016: Blue Items Car
+    2300018: Blue Liquid Car
+    2300020: Blue Materials Car
+    2300022: Blue Pasenger Car w/Interior
+    2300024: Blue Simple Car
+    2300026: Blue Veggies Car
+    2300028: Brown Animal Car
+    2300030: Brown Items Car
+    2300032: Brown Materials Car
+    2300034: Brown Veggies Car
+    2300036: Cube.015
+    2300038: Cube.016
+    2300040: Cube.017
+    2300042: Empty Car
+    2300044: Empty Car Small
+    2300046: Green Animal Car
+    2300048: Green Items Car
+    2300050: Green Liquid Car
+    2300052: Green Materials Car
+    2300054: Green Pasenger Car
+    2300056: Green Pasenger Car w/Interior
+    2300058: Green Simple Car
+    2300060: Green Veggies Car
+    2300062: Grey Animal Car
+    2300064: Grey Items Car
+    2300066: Grey Liquid Car
+    2300068: Grey Pasenger Car
+    2300070: Grey Pasenger Car w/Interior
+    2300072: Grey Simple Car
+    2300074: Grey Veggies Car
+    2300076: Light Grey Animal Car
+    2300078: Logs Car 1
+    2300080: Logs Car 2
+    2300082: Logs Car 3
+    2300084: Logs Car 4
+    2300086: Logs Car 5
+    2300088: Logs Car 6
+    2300090: Logs Car 7
+    2300092: Orange Pasenger Car
+    2300094: Orange Pasenger Car w/Interior
+    2300096: Orange Simple Car
+    2300098: Pink Items Car
+    2300100: Pink Materials Car
+    2300102: Purple Animal Car
+    2300104: Purple Items Car
+    2300106: Purple Simple Car
+    2300108: Purple Veggies Car
+    2300110: Red Liquid car
+    2300112: Red Materials Car
+    2300114: Red Pasenger Car
+    2300116: Red Pasenger Car w/Interior
+    2300118: Red Simple Car
+    2300120: Red Veggies Car
+    2300122: Slope Example
+    2300124: Slope Smooth Example 1
+    2300126: Slope Smooth Example 2
+    2300128: Slope Smooth Example 3
+    2300130: Support Pillar Reinforcement
+    2300132: Support Pillar Size 1
+    2300134: Support Pillar Size 2
+    2300136: Support Pillar Size 3
+    2300138: Support Pillar Size 4
+    2300140: Support Pillar Size 5
+    2300142: Support Pillar Size 6
+    2300144: Support Pillar Wood Size 1
+    2300146: Support Pillar Wood Size 2
+    2300148: Support Pillar Wood Size 3
+    2300150: Track
+    2300152: Track Bent
+    2300154: Track Bent Down
+    2300156: Track Bent Up
+    2300158: Track Crossroad
+    2300160: Track Crossroad Example
+    2300162: Track Long
+    2300164: Track Medium
+    2300166: Track Medium Turn
+    2300168: Track Medium Turn 2
+    2300170: Track Medium Turn 2 Example
+    2300172: Track Part Example 1
+    2300174: Track Part Example 2
+    2300176: Track Part Example 3
+    2300178: Track Part Example 3.001
+    2300180: Track Sharp Turn
+    2300182: Track Short
+    2300184: Track Slope
+    2300186: Track Slope Bent Down
+    2300188: Track Slope Bent Up
+    2300190: Track Small Turn Left
+    2300192: Track Small Turn Right
+    2300194: Track Split
+    2300196: Track Split Example
+    2300198: Track Threeway Crossroad
+    2300200: 'Track Turn Example '
+    2300202: Track Turn Medium
+    2300204: Track Turn Sharp
+    2300206: Track Turn Wide
+    2300208: Track Turn Wide Example
+    2300210: Track X Cross Example
+    2300212: Track X Crossroad
+    2300214: Train 1
+    2300216: Train 1.001
+    2300218: Train 2
+    2300220: Train 2.001
+    2300222: Train 3
+    2300224: Train 3.001
+    2300226: Train 4
+    2300228: Train 4.001
+    2300230: White Liquid Car
+    2300232: White Materials Car
+    2300234: Yellow Items Car
+    2300236: Yellow Liquid Car
+    2300238: Yellow Simple Car
+    2300240: Train 1 Black
+    2300242: Train 2 Black
+    2300244: Train 3 Black
+    2300246: Train 4 Black
+    2300248: Track Part Example 4
+    2300250: Example Railroad Track
+    3300000: Black Animal Car
+    3300002: Black Liquid Car
+    3300004: Black Materials Car
+    3300006: Black Pasenger Car
+    3300008: Black Pasenger Car w/Interior
+    3300010: Black Veggies Car
+    3300012: Blue  Pasenger Car
+    3300014: Blue Animal Car
+    3300016: Blue Items Car
+    3300018: Blue Liquid Car
+    3300020: Blue Materials Car
+    3300022: Blue Pasenger Car w/Interior
+    3300024: Blue Simple Car
+    3300026: Blue Veggies Car
+    3300028: Brown Animal Car
+    3300030: Brown Items Car
+    3300032: Brown Materials Car
+    3300034: Brown Veggies Car
+    3300036: Cube.015
+    3300038: Cube.016
+    3300040: Cube.017
+    3300042: Empty Car
+    3300044: Empty Car Small
+    3300046: Green Animal Car
+    3300048: Green Items Car
+    3300050: Green Liquid Car
+    3300052: Green Materials Car
+    3300054: Green Pasenger Car
+    3300056: Green Pasenger Car w/Interior
+    3300058: Green Simple Car
+    3300060: Green Veggies Car
+    3300062: Grey Animal Car
+    3300064: Grey Items Car
+    3300066: Grey Liquid Car
+    3300068: Grey Pasenger Car
+    3300070: Grey Pasenger Car w/Interior
+    3300072: Grey Simple Car
+    3300074: Grey Veggies Car
+    3300076: Light Grey Animal Car
+    3300078: Logs Car 1
+    3300080: Logs Car 2
+    3300082: Logs Car 3
+    3300084: Logs Car 4
+    3300086: Logs Car 5
+    3300088: Logs Car 6
+    3300090: Logs Car 7
+    3300092: Orange Pasenger Car
+    3300094: Orange Pasenger Car w/Interior
+    3300096: Orange Simple Car
+    3300098: Pink Items Car
+    3300100: Pink Materials Car
+    3300102: Purple Animal Car
+    3300104: Purple Items Car
+    3300106: Purple Simple Car
+    3300108: Purple Veggies Car
+    3300110: Red Liquid car
+    3300112: Red Materials Car
+    3300114: Red Pasenger Car
+    3300116: Red Pasenger Car w/Interior
+    3300118: Red Simple Car
+    3300120: Red Veggies Car
+    3300122: Slope Example
+    3300124: Slope Smooth Example 1
+    3300126: Slope Smooth Example 2
+    3300128: Slope Smooth Example 3
+    3300130: Support Pillar Reinforcement
+    3300132: Support Pillar Size 1
+    3300134: Support Pillar Size 2
+    3300136: Support Pillar Size 3
+    3300138: Support Pillar Size 4
+    3300140: Support Pillar Size 5
+    3300142: Support Pillar Size 6
+    3300144: Support Pillar Wood Size 1
+    3300146: Support Pillar Wood Size 2
+    3300148: Support Pillar Wood Size 3
+    3300150: Track
+    3300152: Track Bent
+    3300154: Track Bent Down
+    3300156: Track Bent Up
+    3300158: Track Crossroad
+    3300160: Track Crossroad Example
+    3300162: Track Long
+    3300164: Track Medium
+    3300166: Track Medium Turn
+    3300168: Track Medium Turn 2
+    3300170: Track Medium Turn 2 Example
+    3300172: Track Part Example 1
+    3300174: Track Part Example 2
+    3300176: Track Part Example 3
+    3300178: Track Part Example 3.001
+    3300180: Track Sharp Turn
+    3300182: Track Short
+    3300184: Track Slope
+    3300186: Track Slope Bent Down
+    3300188: Track Slope Bent Up
+    3300190: Track Small Turn Left
+    3300192: Track Small Turn Right
+    3300194: Track Split
+    3300196: Track Split Example
+    3300198: Track Threeway Crossroad
+    3300200: 'Track Turn Example '
+    3300202: Track Turn Medium
+    3300204: Track Turn Sharp
+    3300206: Track Turn Wide
+    3300208: Track Turn Wide Example
+    3300210: Track X Cross Example
+    3300212: Track X Crossroad
+    3300214: Train 1
+    3300216: Train 1.001
+    3300218: Train 2
+    3300220: Train 2.001
+    3300222: Train 3
+    3300224: Train 3.001
+    3300226: Train 4
+    3300228: Train 4.001
+    3300230: White Liquid Car
+    3300232: White Materials Car
+    3300234: Yellow Items Car
+    3300236: Yellow Liquid Car
+    3300238: Yellow Simple Car
+    3300240: Train 1 Black
+    3300242: Train 2 Black
+    3300244: Train 3 Black
+    3300246: Train 4 Black
+    3300248: Track Part Example 4
+    3300250: Example Railroad Track
+    4300000: Support Pillar Reinforcement
+    4300002: Support Pillar Wood Size 3
+    4300004: Support Pillar Wood Size 2
+    4300006: Support Pillar Wood Size 1
+    4300008: Support Pillar Size 6
+    4300010: Support Pillar Size 5
+    4300012: Support Pillar Size 4
+    4300014: Support Pillar Size 1
+    4300016: Support Pillar Size 3
+    4300018: Support Pillar Size 2
+    4300020: Track Turn Wide Example
+    4300022: Track Part Example 1
+    4300024: 'Track Turn Example '
+    4300026: Track Long
+    4300028: Track Medium
+    4300030: Red Pasenger Car
+    4300032: Empty Car Small
+    4300034: Empty Car
+    4300036: Track Part Example 2
+    4300038: Track Part Example 3.001
+    4300040: Track Turn Wide
+    4300042: Track Part Example 3
+    4300044: Track Threeway Crossroad
+    4300046: Track Bent
+    4300048: Track Sharp Turn
+    4300050: Track Crossroad
+    4300052: Track X Crossroad
+    4300054: Track Crossroad Example
+    4300056: Track X Cross Example
+    4300058: Track Slope Bent Up
+    4300060: Slope Smooth Example 3
+    4300062: Track Split
+    4300064: Track Medium Turn 2
+    4300066: Track Medium Turn 2 Example
+    4300068: Track Split Example
+    4300070: Track Bent Down
+    4300072: Track Bent Up
+    4300074: Track Slope Bent Down
+    4300076: Track Slope
+    4300078: Slope Smooth Example 2
+    4300080: Slope Smooth Example 1
+    4300082: Slope Example
+    4300084: Track Short
+    4300086: Track Turn Sharp
+    4300088: Track Medium Turn
+    4300090: Track Small Turn Left
+    4300092: Track Small Turn Right
+    4300094: Track Turn Medium
+    4300096: Green Pasenger Car
+    4300098: Blue  Pasenger Car
+    4300100: Grey Pasenger Car
+    4300102: Orange Pasenger Car
+    4300104: Black Pasenger Car
+    4300106: Black Pasenger Car w/Interior
+    4300108: Orange Pasenger Car w/Interior
+    4300110: Grey Pasenger Car w/Interior
+    4300112: Blue Pasenger Car w/Interior
+    4300114: Green Pasenger Car w/Interior
+    4300116: Train 1
+    4300118: Grey Liquid Car
+    4300120: Black Materials Car
+    4300122: Grey Veggies Car
+    4300124: Logs Car 7
+    4300126: Light Grey Animal Car
+    4300128: Grey Simple Car
+    4300130: Grey Items Car
+    4300132: Yellow Items Car
+    4300134: Blue Items Car
+    4300136: Purple Items Car
+    4300138: Pink Items Car
+    4300140: Green Items Car
+    4300142: Purple Animal Car
+    4300144: Grey Animal Car
+    4300146: Green Animal Car
+    4300148: Blue Animal Car
+    4300150: Black Animal Car
+    4300152: Train 3
+    4300154: Train 4.001
+    4300156: Train 3.001
+    4300158: Train 2.001
+    4300160: Train 1.001
+    4300162: Logs Car 6
+    4300164: Logs Car 5
+    4300166: Logs Car 4
+    4300168: Logs Car 3
+    4300170: Logs Car 2
+    4300172: Green Liquid Car
+    4300174: Purple Simple Car
+    4300176: Yellow Simple Car
+    4300178: Orange Simple Car
+    4300180: Blue Simple Car
+    4300182: Red Simple Car
+    4300184: Black Veggies Car
+    4300186: Purple Veggies Car
+    4300188: Red Veggies Car
+    4300190: Brown Veggies Car
+    4300192: Green Veggies Car
+    4300194: White Materials Car
+    4300196: Pink Materials Car
+    4300198: Brown Materials Car
+    4300200: Blue Materials Car
+    4300202: Red Materials Car
+    4300204: Red Liquid car
+    4300206: Blue Liquid Car
+    4300208: Yellow Liquid Car
+    4300210: Black Liquid Car
+    4300212: Cube.017
+    4300214: Cube.016
+    4300216: Cube.015
+    4300218: Red Pasenger Car w/Interior
+    4300220: Train 2
+    4300222: Train 4
+    4300224: Brown Animal Car
+    4300226: Logs Car 1
+    4300228: Brown Items Car
+    4300230: Blue Veggies Car
+    4300232: Green Materials Car
+    4300234: Green Simple Car
+    4300236: White Liquid Car
+    4300238: Track
+    4300240: Train 4 Black
+    4300242: Train 3 Black
+    4300244: Train 2 Black
+    4300246: Train 1 Black
+    4300248: Track Part Example 4
+    4300250: Example Railroad Track
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

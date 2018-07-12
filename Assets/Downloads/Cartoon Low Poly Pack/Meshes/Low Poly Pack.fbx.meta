@@ -1,0 +1,1203 @@
+fileFormatVersion: 2
+guid: f6697d5015125824ea3f782d7fc20246
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arrow
+    100002: Axe
+    100004: Barn
+    100006: Barrel
+    100008: Bow
+    100010: Bow w String
+    100012: Bucket
+    100014: Bucket Full
+    100016: Bush
+    100018: Cart
+    100020: Crafted Axe
+    100022: Crafted Pickaxe
+    100024: Crafted Spear
+    100026: Crafted Sword
+    100028: Crate
+    100030: Cylinder.004
+    100032: Dead Tree 1
+    100034: Dead Tree 2
+    100036: Dead Tree 3
+    100038: Dead Tree 4
+    100040: Dead Tree 5
+    100042: Dead Tree 6
+    100044: Dead Tree 7
+    100046: Fence 1
+    100048: Fence 1a
+    100050: Fence 2
+    100052: Fence 2a
+    100054: Fence 3
+    100056: Fence 3a
+    100058: Fence 4
+    100060: Fence 4a
+    100062: Fence 5
+    100064: Fence 5a
+    100066: Fire Log
+    100068: Fire Logs
+    100070: Flower 1
+    100072: Flower 2
+    100074: Flower 3
+    100076: Flower 4
+    100078: Flower 5
+    100080: Flower 6
+    100082: Flower 7
+    100084: Flower 8
+    100086: Flower 9
+    100088: Grass 1
+    100090: Grass 2
+    100092: Grass 3
+    100094: Ground 1
+    100096: Ground 2
+    100098: Ground 3
+    100100: Ground 4
+    100102: Ground 5
+    100104: Hay
+    100106: House 1
+    100108: House 2
+    100110: House 3
+    100112: House 4
+    100114: House 5
+    100116: House 6
+    100118: House 7
+    100120: House 8
+    100122: House 9
+    100124: Ladder 1
+    100126: Ladder 2
+    100128: //RootNode
+    100130: Metal Barrel
+    100132: Mountain 1
+    100134: Mountain 1a
+    100136: Mountain 2
+    100138: Mountain 2a
+    100140: Mountain 3
+    100142: Mountain 3a
+    100144: Mountain 4
+    100146: Mountain 4a
+    100148: Mountain 5
+    100150: Mountain 5a
+    100152: Pichfork
+    100154: Pickaxe
+    100156: Rakes
+    100158: Rock 1
+    100160: Rock 10
+    100162: Rock 11
+    100164: Rock 11a
+    100166: Rock 12
+    100168: Rock 12a
+    100170: Rock 13
+    100172: Rock 13a
+    100174: Rock 14
+    100176: Rock 14a
+    100178: Rock 2
+    100180: Rock 3
+    100182: Rock 4
+    100184: Rock 5
+    100186: Rock 6
+    100188: Rock 7
+    100190: Rock 8
+    100192: Rock 9
+    100194: Separate Cart
+    100196: Seperate Wheels
+    100198: Showel
+    100200: Stone Tile
+    100202: Stone Tiles
+    100204: Sword 1
+    100206: Sword 2
+    100208: Sword 3
+    100210: Torch
+    100212: Tree 1
+    100214: Tree 10
+    100216: Tree 2
+    100218: Tree 3
+    100220: Tree 4
+    100222: Tree 4a
+    100224: Tree 5
+    100226: Tree 6
+    100228: Tree 7
+    100230: Tree 8
+    100232: Tree 9
+    100234: Water Tower
+    100236: Well
+    100238: Circle
+    100240: Cube
+    100242: Cube.002
+    100244: Cube.005
+    100246: Cube.009
+    100248: Cube.013
+    100250: Dirt Road
+    100252: Ground 6
+    100254: Plane
+    100256: Plane.000
+    100258: Plane.004
+    100260: Boat
+    100262: Bridge
+    100264: Crops 0
+    100266: Crops 1
+    100268: Crops 2
+    100270: Crops 3
+    100272: Crops 4
+    100274: Hay Square
+    100276: Port
+    100278: Camera
+    100280: Cube.001
+    100282: Cube.003
+    100284: Cube.004
+    100286: Bench
+    100288: Hay Cube
+    100290: Table
+    100292: Windmill
+    100294: Stone Stairs
+    100296: Stone Stairs Small
+    100298: Wooden Stairs
+    100300: Wooden Stairs Medium
+    100302: Wooden Stairs Small
+    100304: Stone Stairs.001
+    100306: Basket
+    100308: Big Bed
+    100310: Book 1
+    100312: Book 2
+    100314: Book 3
+    100316: Bookcase
+    100318: Bowl
+    100320: Candle
+    100322: Chest
+    100324: Closet
+    100326: Container
+    100328: Container Lid
+    100330: Desk
+    100332: Desk Chair
+    100334: Door 1
+    100336: Door 2
+    100338: Doorway_1
+    100340: FirePlace
+    100342: Floor
+    100344: Floor Big
+    100346: Ground 4.001
+    100348: Ground 5.001
+    100350: Kitchen Chair
+    100352: Kitchen Shelves
+    100354: Kitchen Table
+    100356: Long Bowl
+    100358: Long Chair
+    100360: Long Table
+    100362: Main Chair
+    100364: NIght Stand
+    100366: Open Book
+    100368: Pillar
+    100370: Plant Pot
+    100372: Plant Pot_2
+    100374: Plate
+    100376: Room
+    100378: Round Container
+    100380: Round Container Lid
+    100382: Round Rug
+    100384: Round Rug.001
+    100386: Round Table
+    100388: Rug
+    100390: Rug_2
+    100392: Shelf
+    100394: Short Table
+    100396: Small Bed
+    100398: Small Chair
+    100400: Sofa
+    100402: Sofa Chair
+    100404: Stack Of Books
+    100406: Stack Of Books 2
+    100408: Stove
+    100410: Wall
+    100412: Wall Corner
+    100414: Wall Narrow
+    100416: Window Big
+    100418: Window Small
+    100420: Window Wall 1
+    100422: Window Wall 2
+    100424: Window Wall 3
+    100426: Lake
+    100428: River
+    100430: Round Rug 2
+    100432: Chest Top
+    100434: Closet.001
+    100436: Closet.002
+    100438: Closet.003
+    100440: Closet.004
+    100442: Closet Door 1
+    100444: Closet Door 2
+    100446: Closet Door 3
+    100448: Closet Door 4
+    100450: Chandelere 1
+    100452: Chandelere 2
+    100454: Chandelere 3
+    100456: Chandelere 4
+    400000: Arrow
+    400002: Axe
+    400004: Barn
+    400006: Barrel
+    400008: Bow
+    400010: Bow w String
+    400012: Bucket
+    400014: Bucket Full
+    400016: Bush
+    400018: Cart
+    400020: Crafted Axe
+    400022: Crafted Pickaxe
+    400024: Crafted Spear
+    400026: Crafted Sword
+    400028: Crate
+    400030: Cylinder.004
+    400032: Dead Tree 1
+    400034: Dead Tree 2
+    400036: Dead Tree 3
+    400038: Dead Tree 4
+    400040: Dead Tree 5
+    400042: Dead Tree 6
+    400044: Dead Tree 7
+    400046: Fence 1
+    400048: Fence 1a
+    400050: Fence 2
+    400052: Fence 2a
+    400054: Fence 3
+    400056: Fence 3a
+    400058: Fence 4
+    400060: Fence 4a
+    400062: Fence 5
+    400064: Fence 5a
+    400066: Fire Log
+    400068: Fire Logs
+    400070: Flower 1
+    400072: Flower 2
+    400074: Flower 3
+    400076: Flower 4
+    400078: Flower 5
+    400080: Flower 6
+    400082: Flower 7
+    400084: Flower 8
+    400086: Flower 9
+    400088: Grass 1
+    400090: Grass 2
+    400092: Grass 3
+    400094: Ground 1
+    400096: Ground 2
+    400098: Ground 3
+    400100: Ground 4
+    400102: Ground 5
+    400104: Hay
+    400106: House 1
+    400108: House 2
+    400110: House 3
+    400112: House 4
+    400114: House 5
+    400116: House 6
+    400118: House 7
+    400120: House 8
+    400122: House 9
+    400124: Ladder 1
+    400126: Ladder 2
+    400128: //RootNode
+    400130: Metal Barrel
+    400132: Mountain 1
+    400134: Mountain 1a
+    400136: Mountain 2
+    400138: Mountain 2a
+    400140: Mountain 3
+    400142: Mountain 3a
+    400144: Mountain 4
+    400146: Mountain 4a
+    400148: Mountain 5
+    400150: Mountain 5a
+    400152: Pichfork
+    400154: Pickaxe
+    400156: Rakes
+    400158: Rock 1
+    400160: Rock 10
+    400162: Rock 11
+    400164: Rock 11a
+    400166: Rock 12
+    400168: Rock 12a
+    400170: Rock 13
+    400172: Rock 13a
+    400174: Rock 14
+    400176: Rock 14a
+    400178: Rock 2
+    400180: Rock 3
+    400182: Rock 4
+    400184: Rock 5
+    400186: Rock 6
+    400188: Rock 7
+    400190: Rock 8
+    400192: Rock 9
+    400194: Separate Cart
+    400196: Seperate Wheels
+    400198: Showel
+    400200: Stone Tile
+    400202: Stone Tiles
+    400204: Sword 1
+    400206: Sword 2
+    400208: Sword 3
+    400210: Torch
+    400212: Tree 1
+    400214: Tree 10
+    400216: Tree 2
+    400218: Tree 3
+    400220: Tree 4
+    400222: Tree 4a
+    400224: Tree 5
+    400226: Tree 6
+    400228: Tree 7
+    400230: Tree 8
+    400232: Tree 9
+    400234: Water Tower
+    400236: Well
+    400238: Circle
+    400240: Cube
+    400242: Cube.002
+    400244: Cube.005
+    400246: Cube.009
+    400248: Cube.013
+    400250: Dirt Road
+    400252: Ground 6
+    400254: Plane
+    400256: Plane.000
+    400258: Plane.004
+    400260: Boat
+    400262: Bridge
+    400264: Crops 0
+    400266: Crops 1
+    400268: Crops 2
+    400270: Crops 3
+    400272: Crops 4
+    400274: Hay Square
+    400276: Port
+    400278: Camera
+    400280: Cube.001
+    400282: Cube.003
+    400284: Cube.004
+    400286: Bench
+    400288: Hay Cube
+    400290: Table
+    400292: Windmill
+    400294: Stone Stairs
+    400296: Stone Stairs Small
+    400298: Wooden Stairs
+    400300: Wooden Stairs Medium
+    400302: Wooden Stairs Small
+    400304: Stone Stairs.001
+    400306: Basket
+    400308: Big Bed
+    400310: Book 1
+    400312: Book 2
+    400314: Book 3
+    400316: Bookcase
+    400318: Bowl
+    400320: Candle
+    400322: Chest
+    400324: Closet
+    400326: Container
+    400328: Container Lid
+    400330: Desk
+    400332: Desk Chair
+    400334: Door 1
+    400336: Door 2
+    400338: Doorway_1
+    400340: FirePlace
+    400342: Floor
+    400344: Floor Big
+    400346: Ground 4.001
+    400348: Ground 5.001
+    400350: Kitchen Chair
+    400352: Kitchen Shelves
+    400354: Kitchen Table
+    400356: Long Bowl
+    400358: Long Chair
+    400360: Long Table
+    400362: Main Chair
+    400364: NIght Stand
+    400366: Open Book
+    400368: Pillar
+    400370: Plant Pot
+    400372: Plant Pot_2
+    400374: Plate
+    400376: Room
+    400378: Round Container
+    400380: Round Container Lid
+    400382: Round Rug
+    400384: Round Rug.001
+    400386: Round Table
+    400388: Rug
+    400390: Rug_2
+    400392: Shelf
+    400394: Short Table
+    400396: Small Bed
+    400398: Small Chair
+    400400: Sofa
+    400402: Sofa Chair
+    400404: Stack Of Books
+    400406: Stack Of Books 2
+    400408: Stove
+    400410: Wall
+    400412: Wall Corner
+    400414: Wall Narrow
+    400416: Window Big
+    400418: Window Small
+    400420: Window Wall 1
+    400422: Window Wall 2
+    400424: Window Wall 3
+    400426: Lake
+    400428: River
+    400430: Round Rug 2
+    400432: Chest Top
+    400434: Closet.001
+    400436: Closet.002
+    400438: Closet.003
+    400440: Closet.004
+    400442: Closet Door 1
+    400444: Closet Door 2
+    400446: Closet Door 3
+    400448: Closet Door 4
+    400450: Chandelere 1
+    400452: Chandelere 2
+    400454: Chandelere 3
+    400456: Chandelere 4
+    2300000: Arrow
+    2300002: Axe
+    2300004: Barn
+    2300006: Barrel
+    2300008: Bow
+    2300010: Bow w String
+    2300012: Bucket
+    2300014: Bucket Full
+    2300016: Bush
+    2300018: Cart
+    2300020: Crafted Axe
+    2300022: Crafted Pickaxe
+    2300024: Crafted Spear
+    2300026: Crafted Sword
+    2300028: Crate
+    2300030: Cylinder.004
+    2300032: Dead Tree 1
+    2300034: Dead Tree 2
+    2300036: Dead Tree 3
+    2300038: Dead Tree 4
+    2300040: Dead Tree 5
+    2300042: Dead Tree 6
+    2300044: Dead Tree 7
+    2300046: Fence 1
+    2300048: Fence 1a
+    2300050: Fence 2
+    2300052: Fence 2a
+    2300054: Fence 3
+    2300056: Fence 3a
+    2300058: Fence 4
+    2300060: Fence 4a
+    2300062: Fence 5
+    2300064: Fence 5a
+    2300066: Fire Log
+    2300068: Fire Logs
+    2300070: Flower 1
+    2300072: Flower 2
+    2300074: Flower 3
+    2300076: Flower 4
+    2300078: Flower 5
+    2300080: Flower 6
+    2300082: Flower 7
+    2300084: Flower 8
+    2300086: Flower 9
+    2300088: Grass 1
+    2300090: Grass 2
+    2300092: Grass 3
+    2300094: Ground 1
+    2300096: Ground 2
+    2300098: Ground 3
+    2300100: Ground 4
+    2300102: Ground 5
+    2300104: Hay
+    2300106: House 1
+    2300108: House 2
+    2300110: House 3
+    2300112: House 4
+    2300114: House 5
+    2300116: House 6
+    2300118: House 7
+    2300120: House 8
+    2300122: House 9
+    2300124: Ladder 1
+    2300126: Ladder 2
+    2300128: Metal Barrel
+    2300130: Mountain 1
+    2300132: Mountain 1a
+    2300134: Mountain 2
+    2300136: Mountain 2a
+    2300138: Mountain 3
+    2300140: Mountain 3a
+    2300142: Mountain 4
+    2300144: Mountain 4a
+    2300146: Mountain 5
+    2300148: Mountain 5a
+    2300150: Pichfork
+    2300152: Pickaxe
+    2300154: Rakes
+    2300156: Rock 1
+    2300158: Rock 10
+    2300160: Rock 11
+    2300162: Rock 11a
+    2300164: Rock 12
+    2300166: Rock 12a
+    2300168: Rock 13
+    2300170: Rock 13a
+    2300172: Rock 14
+    2300174: Rock 14a
+    2300176: Rock 2
+    2300178: Rock 3
+    2300180: Rock 4
+    2300182: Rock 5
+    2300184: Rock 6
+    2300186: Rock 7
+    2300188: Rock 8
+    2300190: Rock 9
+    2300192: Separate Cart
+    2300194: Seperate Wheels
+    2300196: Showel
+    2300198: Stone Tile
+    2300200: Stone Tiles
+    2300202: Sword 1
+    2300204: Sword 2
+    2300206: Sword 3
+    2300208: Torch
+    2300210: Tree 1
+    2300212: Tree 10
+    2300214: Tree 2
+    2300216: Tree 3
+    2300218: Tree 4
+    2300220: Tree 4a
+    2300222: Tree 5
+    2300224: Tree 6
+    2300226: Tree 7
+    2300228: Tree 8
+    2300230: Tree 9
+    2300232: Water Tower
+    2300234: Well
+    2300236: Circle
+    2300238: Cube
+    2300240: Cube.002
+    2300242: Cube.005
+    2300244: Cube.009
+    2300246: Cube.013
+    2300248: Dirt Road
+    2300250: Ground 6
+    2300252: Plane
+    2300254: Plane.000
+    2300256: Plane.004
+    2300258: Boat
+    2300260: Bridge
+    2300262: Crops 0
+    2300264: Crops 1
+    2300266: Crops 2
+    2300268: Crops 3
+    2300270: Crops 4
+    2300272: Hay Square
+    2300274: Port
+    2300276: Cube.001
+    2300278: Cube.003
+    2300280: Cube.004
+    2300282: Bench
+    2300284: Hay Cube
+    2300286: Table
+    2300288: Windmill
+    2300290: Stone Stairs
+    2300292: Stone Stairs Small
+    2300294: Wooden Stairs
+    2300296: Wooden Stairs Medium
+    2300298: Wooden Stairs Small
+    2300300: Stone Stairs.001
+    2300302: Basket
+    2300304: Big Bed
+    2300306: Book 1
+    2300308: Book 2
+    2300310: Book 3
+    2300312: Bookcase
+    2300314: Bowl
+    2300316: Candle
+    2300318: Chest
+    2300320: Closet
+    2300322: Container
+    2300324: Container Lid
+    2300326: Desk
+    2300328: Desk Chair
+    2300330: Door 1
+    2300332: Door 2
+    2300334: Doorway_1
+    2300336: FirePlace
+    2300338: Floor
+    2300340: Floor Big
+    2300342: Ground 4.001
+    2300344: Ground 5.001
+    2300346: Kitchen Chair
+    2300348: Kitchen Shelves
+    2300350: Kitchen Table
+    2300352: Long Bowl
+    2300354: Long Chair
+    2300356: Long Table
+    2300358: Main Chair
+    2300360: NIght Stand
+    2300362: Open Book
+    2300364: Pillar
+    2300366: Plant Pot
+    2300368: Plant Pot_2
+    2300370: Plate
+    2300372: Room
+    2300374: Round Container
+    2300376: Round Container Lid
+    2300378: Round Rug
+    2300380: Round Rug.001
+    2300382: Round Table
+    2300384: Rug
+    2300386: Rug_2
+    2300388: Shelf
+    2300390: Short Table
+    2300392: Small Bed
+    2300394: Small Chair
+    2300396: Sofa
+    2300398: Sofa Chair
+    2300400: Stack Of Books
+    2300402: Stack Of Books 2
+    2300404: Stove
+    2300406: Wall
+    2300408: Wall Corner
+    2300410: Wall Narrow
+    2300412: Window Big
+    2300414: Window Small
+    2300416: Window Wall 1
+    2300418: Window Wall 2
+    2300420: Window Wall 3
+    2300422: Lake
+    2300424: River
+    2300426: Round Rug 2
+    2300428: Chest Top
+    2300430: Closet.001
+    2300432: Closet.002
+    2300434: Closet.003
+    2300436: Closet.004
+    2300438: Closet Door 1
+    2300440: Closet Door 2
+    2300442: Closet Door 3
+    2300444: Closet Door 4
+    2300446: Chandelere 1
+    2300448: Chandelere 2
+    2300450: Chandelere 3
+    2300452: Chandelere 4
+    3300000: Arrow
+    3300002: Axe
+    3300004: Barn
+    3300006: Barrel
+    3300008: Bow
+    3300010: Bow w String
+    3300012: Bucket
+    3300014: Bucket Full
+    3300016: Bush
+    3300018: Cart
+    3300020: Crafted Axe
+    3300022: Crafted Pickaxe
+    3300024: Crafted Spear
+    3300026: Crafted Sword
+    3300028: Crate
+    3300030: Cylinder.004
+    3300032: Dead Tree 1
+    3300034: Dead Tree 2
+    3300036: Dead Tree 3
+    3300038: Dead Tree 4
+    3300040: Dead Tree 5
+    3300042: Dead Tree 6
+    3300044: Dead Tree 7
+    3300046: Fence 1
+    3300048: Fence 1a
+    3300050: Fence 2
+    3300052: Fence 2a
+    3300054: Fence 3
+    3300056: Fence 3a
+    3300058: Fence 4
+    3300060: Fence 4a
+    3300062: Fence 5
+    3300064: Fence 5a
+    3300066: Fire Log
+    3300068: Fire Logs
+    3300070: Flower 1
+    3300072: Flower 2
+    3300074: Flower 3
+    3300076: Flower 4
+    3300078: Flower 5
+    3300080: Flower 6
+    3300082: Flower 7
+    3300084: Flower 8
+    3300086: Flower 9
+    3300088: Grass 1
+    3300090: Grass 2
+    3300092: Grass 3
+    3300094: Ground 1
+    3300096: Ground 2
+    3300098: Ground 3
+    3300100: Ground 4
+    3300102: Ground 5
+    3300104: Hay
+    3300106: House 1
+    3300108: House 2
+    3300110: House 3
+    3300112: House 4
+    3300114: House 5
+    3300116: House 6
+    3300118: House 7
+    3300120: House 8
+    3300122: House 9
+    3300124: Ladder 1
+    3300126: Ladder 2
+    3300128: Metal Barrel
+    3300130: Mountain 1
+    3300132: Mountain 1a
+    3300134: Mountain 2
+    3300136: Mountain 2a
+    3300138: Mountain 3
+    3300140: Mountain 3a
+    3300142: Mountain 4
+    3300144: Mountain 4a
+    3300146: Mountain 5
+    3300148: Mountain 5a
+    3300150: Pichfork
+    3300152: Pickaxe
+    3300154: Rakes
+    3300156: Rock 1
+    3300158: Rock 10
+    3300160: Rock 11
+    3300162: Rock 11a
+    3300164: Rock 12
+    3300166: Rock 12a
+    3300168: Rock 13
+    3300170: Rock 13a
+    3300172: Rock 14
+    3300174: Rock 14a
+    3300176: Rock 2
+    3300178: Rock 3
+    3300180: Rock 4
+    3300182: Rock 5
+    3300184: Rock 6
+    3300186: Rock 7
+    3300188: Rock 8
+    3300190: Rock 9
+    3300192: Separate Cart
+    3300194: Seperate Wheels
+    3300196: Showel
+    3300198: Stone Tile
+    3300200: Stone Tiles
+    3300202: Sword 1
+    3300204: Sword 2
+    3300206: Sword 3
+    3300208: Torch
+    3300210: Tree 1
+    3300212: Tree 10
+    3300214: Tree 2
+    3300216: Tree 3
+    3300218: Tree 4
+    3300220: Tree 4a
+    3300222: Tree 5
+    3300224: Tree 6
+    3300226: Tree 7
+    3300228: Tree 8
+    3300230: Tree 9
+    3300232: Water Tower
+    3300234: Well
+    3300236: Circle
+    3300238: Cube
+    3300240: Cube.002
+    3300242: Cube.005
+    3300244: Cube.009
+    3300246: Cube.013
+    3300248: Dirt Road
+    3300250: Ground 6
+    3300252: Plane
+    3300254: Plane.000
+    3300256: Plane.004
+    3300258: Boat
+    3300260: Bridge
+    3300262: Crops 0
+    3300264: Crops 1
+    3300266: Crops 2
+    3300268: Crops 3
+    3300270: Crops 4
+    3300272: Hay Square
+    3300274: Port
+    3300276: Cube.001
+    3300278: Cube.003
+    3300280: Cube.004
+    3300282: Bench
+    3300284: Hay Cube
+    3300286: Table
+    3300288: Windmill
+    3300290: Stone Stairs
+    3300292: Stone Stairs Small
+    3300294: Wooden Stairs
+    3300296: Wooden Stairs Medium
+    3300298: Wooden Stairs Small
+    3300300: Stone Stairs.001
+    3300302: Basket
+    3300304: Big Bed
+    3300306: Book 1
+    3300308: Book 2
+    3300310: Book 3
+    3300312: Bookcase
+    3300314: Bowl
+    3300316: Candle
+    3300318: Chest
+    3300320: Closet
+    3300322: Container
+    3300324: Container Lid
+    3300326: Desk
+    3300328: Desk Chair
+    3300330: Door 1
+    3300332: Door 2
+    3300334: Doorway_1
+    3300336: FirePlace
+    3300338: Floor
+    3300340: Floor Big
+    3300342: Ground 4.001
+    3300344: Ground 5.001
+    3300346: Kitchen Chair
+    3300348: Kitchen Shelves
+    3300350: Kitchen Table
+    3300352: Long Bowl
+    3300354: Long Chair
+    3300356: Long Table
+    3300358: Main Chair
+    3300360: NIght Stand
+    3300362: Open Book
+    3300364: Pillar
+    3300366: Plant Pot
+    3300368: Plant Pot_2
+    3300370: Plate
+    3300372: Room
+    3300374: Round Container
+    3300376: Round Container Lid
+    3300378: Round Rug
+    3300380: Round Rug.001
+    3300382: Round Table
+    3300384: Rug
+    3300386: Rug_2
+    3300388: Shelf
+    3300390: Short Table
+    3300392: Small Bed
+    3300394: Small Chair
+    3300396: Sofa
+    3300398: Sofa Chair
+    3300400: Stack Of Books
+    3300402: Stack Of Books 2
+    3300404: Stove
+    3300406: Wall
+    3300408: Wall Corner
+    3300410: Wall Narrow
+    3300412: Window Big
+    3300414: Window Small
+    3300416: Window Wall 1
+    3300418: Window Wall 2
+    3300420: Window Wall 3
+    3300422: Lake
+    3300424: River
+    3300426: Round Rug 2
+    3300428: Chest Top
+    3300430: Closet.001
+    3300432: Closet.002
+    3300434: Closet.003
+    3300436: Closet.004
+    3300438: Closet Door 1
+    3300440: Closet Door 2
+    3300442: Closet Door 3
+    3300444: Closet Door 4
+    3300446: Chandelere 1
+    3300448: Chandelere 2
+    3300450: Chandelere 3
+    3300452: Chandelere 4
+    4300000: Cylinder.004
+    4300002: Seperate Wheels
+    4300004: Separate Cart
+    4300006: Rock 12a
+    4300008: Rock 13a
+    4300010: Rock 11a
+    4300012: Rock 14a
+    4300014: Rock 14
+    4300016: Rock 11
+    4300018: Rock 13
+    4300020: Rock 12
+    4300022: Mountain 2a
+    4300024: Fire Log
+    4300026: Crafted Sword
+    4300028: Crafted Pickaxe
+    4300030: Crafted Spear
+    4300032: Crafted Axe
+    4300034: Fire Logs
+    4300036: Bush
+    4300038: Bucket Full
+    4300040: Dead Tree 1
+    4300042: Dead Tree 2
+    4300044: Dead Tree 4
+    4300046: Dead Tree 5
+    4300048: Dead Tree 7
+    4300050: Dead Tree 6
+    4300052: Dead Tree 3
+    4300054: Fence 4a
+    4300056: Fence 5a
+    4300058: Fence 3a
+    4300060: Fence 2a
+    4300062: Fence 1a
+    4300064: Bucket
+    4300066: Stone Tile
+    4300068: Ground 5
+    4300070: Ground 4
+    4300072: Mountain 1a
+    4300074: Mountain 3a
+    4300076: Mountain 4a
+    4300078: Mountain 5a
+    4300080: Water Tower
+    4300082: Metal Barrel
+    4300084: Ladder 2
+    4300086: Bow
+    4300088: Torch
+    4300090: Arrow
+    4300092: Bow w String
+    4300094: Sword 1
+    4300096: Sword 3
+    4300098: Sword 2
+    4300100: Showel
+    4300102: Pichfork
+    4300104: Pickaxe
+    4300106: Axe
+    4300108: Rakes
+    4300110: Ladder 1
+    4300112: Well
+    4300114: Hay
+    4300116: Crate
+    4300118: Barn
+    4300120: House 1
+    4300122: House 2
+    4300124: House 6
+    4300126: House 5
+    4300128: House 4
+    4300130: House 8
+    4300132: Ground 1
+    4300134: House 9
+    4300136: Flower 1
+    4300138: Flower 7
+    4300140: Flower 4
+    4300142: Flower 5
+    4300144: Flower 8
+    4300146: Flower 2
+    4300148: Tree 4a
+    4300150: Mountain 2
+    4300152: Ground 3
+    4300154: Ground 2
+    4300156: House 7
+    4300158: House 3
+    4300160: Flower 3
+    4300162: Flower 9
+    4300164: Flower 6
+    4300166: Mountain 5
+    4300168: Mountain 4
+    4300170: Mountain 3
+    4300172: Mountain 1
+    4300174: Stone Tiles
+    4300176: Cart
+    4300178: Barrel
+    4300180: Fence 1
+    4300182: Fence 2
+    4300184: Fence 3
+    4300186: Fence 5
+    4300188: Fence 4
+    4300190: Grass 1
+    4300192: Grass 2
+    4300194: Grass 3
+    4300196: Rock 1
+    4300198: Rock 2
+    4300200: Rock 3
+    4300202: Rock 4
+    4300204: Rock 10
+    4300206: Rock 9
+    4300208: Rock 5
+    4300210: Rock 8
+    4300212: Rock 7
+    4300214: Rock 6
+    4300216: Tree 5
+    4300218: Tree 9
+    4300220: Tree 10
+    4300222: Tree 8
+    4300224: Tree 7
+    4300226: Tree 6
+    4300228: Tree 4
+    4300230: Tree 3
+    4300232: Tree 2
+    4300234: Tree 1
+    4300236: Cube
+    4300238: Plane
+    4300240: Circle
+    4300242: Plane.000
+    4300244: Plane.004
+    4300246: Cube.013
+    4300248: Cube.009
+    4300250: Cube.005
+    4300252: Cube.002
+    4300254: Dirt Road
+    4300256: Ground 6
+    4300258: Hay Square
+    4300260: Bridge
+    4300262: Boat
+    4300264: Port
+    4300266: Crops 0
+    4300268: Crops 1
+    4300270: Crops 3
+    4300272: Crops 4
+    4300274: Crops 2
+    4300276: Cube.004
+    4300278: Cube.003
+    4300280: Cube.001
+    4300282: Table
+    4300284: Bench
+    4300286: Windmill
+    4300288: Hay Cube
+    4300290: Stone Stairs Small
+    4300292: Stone Stairs
+    4300294: Wooden Stairs Small
+    4300296: Wooden Stairs Medium
+    4300298: Wooden Stairs
+    4300300: Stone Stairs.001
+    4300302: Ground 5.001
+    4300304: Ground 4.001
+    4300306: Round Container Lid
+    4300308: Container Lid
+    4300310: Window Big
+    4300312: Window Small
+    4300314: Door 2
+    4300316: Door 1
+    4300318: Room
+    4300320: Plant Pot_2
+    4300322: Round Rug
+    4300324: Rug_2
+    4300326: Stack Of Books 2
+    4300328: Stack Of Books
+    4300330: Book 3
+    4300332: Book 2
+    4300334: Basket
+    4300336: Big Bed
+    4300338: Book 1
+    4300340: Bowl
+    4300342: Candle
+    4300344: Chest
+    4300346: Closet
+    4300348: Container
+    4300350: Desk
+    4300352: Desk Chair
+    4300354: FirePlace
+    4300356: Kitchen Chair
+    4300358: Kitchen Shelves
+    4300360: Kitchen Table
+    4300362: Long Bowl
+    4300364: Long Chair
+    4300366: Long Table
+    4300368: Main Chair
+    4300370: NIght Stand
+    4300372: Open Book
+    4300374: Bookcase
+    4300376: Plant Pot
+    4300378: Plate
+    4300380: Round Container
+    4300382: Round Rug.001
+    4300384: Round Table
+    4300386: Rug
+    4300388: Shelf
+    4300390: Short Table
+    4300392: Small Bed
+    4300394: Small Chair
+    4300396: Sofa
+    4300398: Sofa Chair
+    4300400: Stove
+    4300402: Doorway_1
+    4300404: Floor
+    4300406: Floor Big
+    4300408: Pillar
+    4300410: Wall
+    4300412: Wall Corner
+    4300414: Wall Narrow
+    4300416: Window Wall 1
+    4300418: Window Wall 2
+    4300420: Window Wall 3
+    4300422: River
+    4300424: Lake
+    4300426: Round Rug 2
+    4300428: Closet.004
+    4300430: Closet.003
+    4300432: Closet.002
+    4300434: Closet.001
+    4300436: Chest Top
+    4300438: Closet Door 3
+    4300440: Closet Door 4
+    4300442: Closet Door 2
+    4300444: Closet Door 1
+    4300446: Chandelere 4
+    4300448: Chandelere 3
+    4300450: Chandelere 2
+    4300452: Chandelere 1
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: de21d3b3b83be324683e6e5d989c410f
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bench 2
+    100002: Bridge 2
+    100004: Bush 2
+    100006: Bush 3
+    100008: City Building 1
+    100010: City Building 10
+    100012: City Building 11
+    100014: City Building 12
+    100016: City Building 13
+    100018: City Building 14
+    100020: City Building 15
+    100022: City Building 16
+    100024: City Building 17
+    100026: City Building 18
+    100028: City Building 2
+    100030: City Building 3
+    100032: City Building 4
+    100034: City Building 5
+    100036: City Building 6
+    100038: City Building 7
+    100040: City Building 8
+    100042: City Building 9
+    100044: 'Flower Formation 1 '
+    100046: Flower Formation 2
+    100048: Flower Formation 3
+    100050: Flower Formation 4
+    100052: Flower Formation 5
+    100054: Flower Formation 6
+    100056: Flower Formation 7
+    100058: Flower Formation 8
+    100060: Flower Formation 9
+    100062: //RootNode
+    100064: Park Tree 1
+    100066: Park Tree 2
+    100068: Park Tree 3
+    100070: Rock Formation 1
+    100072: Rock Formation 2
+    100074: Rock Formation 3
+    400000: Bench 2
+    400002: Bridge 2
+    400004: Bush 2
+    400006: Bush 3
+    400008: City Building 1
+    400010: City Building 10
+    400012: City Building 11
+    400014: City Building 12
+    400016: City Building 13
+    400018: City Building 14
+    400020: City Building 15
+    400022: City Building 16
+    400024: City Building 17
+    400026: City Building 18
+    400028: City Building 2
+    400030: City Building 3
+    400032: City Building 4
+    400034: City Building 5
+    400036: City Building 6
+    400038: City Building 7
+    400040: City Building 8
+    400042: City Building 9
+    400044: 'Flower Formation 1 '
+    400046: Flower Formation 2
+    400048: Flower Formation 3
+    400050: Flower Formation 4
+    400052: Flower Formation 5
+    400054: Flower Formation 6
+    400056: Flower Formation 7
+    400058: Flower Formation 8
+    400060: Flower Formation 9
+    400062: //RootNode
+    400064: Park Tree 1
+    400066: Park Tree 2
+    400068: Park Tree 3
+    400070: Rock Formation 1
+    400072: Rock Formation 2
+    400074: Rock Formation 3
+    2300000: Bench 2
+    2300002: Bridge 2
+    2300004: Bush 2
+    2300006: Bush 3
+    2300008: City Building 1
+    2300010: City Building 10
+    2300012: City Building 11
+    2300014: City Building 12
+    2300016: City Building 13
+    2300018: City Building 14
+    2300020: City Building 15
+    2300022: City Building 16
+    2300024: City Building 17
+    2300026: City Building 18
+    2300028: City Building 2
+    2300030: City Building 3
+    2300032: City Building 4
+    2300034: City Building 5
+    2300036: City Building 6
+    2300038: City Building 7
+    2300040: City Building 8
+    2300042: City Building 9
+    2300044: 'Flower Formation 1 '
+    2300046: Flower Formation 2
+    2300048: Flower Formation 3
+    2300050: Flower Formation 4
+    2300052: Flower Formation 5
+    2300054: Flower Formation 6
+    2300056: Flower Formation 7
+    2300058: Flower Formation 8
+    2300060: Flower Formation 9
+    2300062: Park Tree 1
+    2300064: Park Tree 2
+    2300066: Park Tree 3
+    2300068: Rock Formation 1
+    2300070: Rock Formation 2
+    2300072: Rock Formation 3
+    3300000: Bench 2
+    3300002: Bridge 2
+    3300004: Bush 2
+    3300006: Bush 3
+    3300008: City Building 1
+    3300010: City Building 10
+    3300012: City Building 11
+    3300014: City Building 12
+    3300016: City Building 13
+    3300018: City Building 14
+    3300020: City Building 15
+    3300022: City Building 16
+    3300024: City Building 17
+    3300026: City Building 18
+    3300028: City Building 2
+    3300030: City Building 3
+    3300032: City Building 4
+    3300034: City Building 5
+    3300036: City Building 6
+    3300038: City Building 7
+    3300040: City Building 8
+    3300042: City Building 9
+    3300044: 'Flower Formation 1 '
+    3300046: Flower Formation 2
+    3300048: Flower Formation 3
+    3300050: Flower Formation 4
+    3300052: Flower Formation 5
+    3300054: Flower Formation 6
+    3300056: Flower Formation 7
+    3300058: Flower Formation 8
+    3300060: Flower Formation 9
+    3300062: Park Tree 1
+    3300064: Park Tree 2
+    3300066: Park Tree 3
+    3300068: Rock Formation 1
+    3300070: Rock Formation 2
+    3300072: Rock Formation 3
+    4300000: City Building 16
+    4300002: City Building 18
+    4300004: City Building 17
+    4300006: City Building 14
+    4300008: City Building 15
+    4300010: Rock Formation 2
+    4300012: Rock Formation 3
+    4300014: Bush 3
+    4300016: 'Flower Formation 1 '
+    4300018: Flower Formation 3
+    4300020: Flower Formation 2
+    4300022: Flower Formation 6
+    4300024: Flower Formation 4
+    4300026: Flower Formation 9
+    4300028: Flower Formation 8
+    4300030: Flower Formation 7
+    4300032: Bench 2
+    4300034: Bridge 2
+    4300036: Bush 2
+    4300038: Flower Formation 5
+    4300040: Rock Formation 1
+    4300042: Park Tree 1
+    4300044: Park Tree 2
+    4300046: Park Tree 3
+    4300048: City Building 10
+    4300050: City Building 9
+    4300052: City Building 12
+    4300054: City Building 13
+    4300056: City Building 11
+    4300058: City Building 1
+    4300060: City Building 2
+    4300062: City Building 3
+    4300064: City Building 4
+    4300066: City Building 5
+    4300068: City Building 6
+    4300070: City Building 7
+    4300072: City Building 8
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

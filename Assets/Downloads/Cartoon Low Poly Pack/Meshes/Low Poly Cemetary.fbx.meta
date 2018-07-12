@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: cfb9285bbd7f9544988d55874d72612e
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Big Candel
+    100002: Big Candle Melted
+    100004: Candle Stand
+    100006: Cemetary Tree 1
+    100008: Cemetary Tree 2
+    100010: Cemetary Tree 3
+    100012: Coffin 1
+    100014: Coffin 2
+    100016: Coffin 3
+    100018: Gate Left
+    100020: Gate Right
+    100022: Hand Candle Stand
+    100024: Hand Lantern
+    100026: Headstone 1
+    100028: Headstone 10
+    100030: Headstone 2
+    100032: Headstone 3
+    100034: Headstone 4
+    100036: Headstone 5
+    100038: Headstone 6
+    100040: Headstone 7
+    100042: Headstone 8
+    100044: Headstone 9
+    100046: Irone Fences 1
+    100048: Irone Fences2
+    100050: Lantern Post
+    100052: //RootNode
+    100054: Moseleum
+    100056: Moseleum Door
+    100058: Scythe
+    100060: Small Candle
+    100062: Small Candle Melted
+    100064: Sphere.002
+    100066: Spooky Pumpkin 1
+    100068: Spooky Pumpkin 2
+    100070: Stone Arche 1
+    100072: Stone Arche 2
+    100074: Stone Fence 1
+    100076: Stone Fence 2
+    100078: Wall Lantern
+    100080: Pumpkin
+    100082: Bat
+    100084: Candle Stand 2
+    100086: Candle Stand 3
+    100088: Coffin 1 Cover
+    100090: Coffin 2 Cover
+    100092: Coffin 3 Cover
+    100094: Ghost
+    100096: Pumpkin Cover
+    100098: Spooky Pumpkin 1 Cover
+    100100: Spooky Pumpkin 2 Cover
+    100102: Terain
+    400000: Big Candel
+    400002: Big Candle Melted
+    400004: Candle Stand
+    400006: Cemetary Tree 1
+    400008: Cemetary Tree 2
+    400010: Cemetary Tree 3
+    400012: Coffin 1
+    400014: Coffin 2
+    400016: Coffin 3
+    400018: Gate Left
+    400020: Gate Right
+    400022: Hand Candle Stand
+    400024: Hand Lantern
+    400026: Headstone 1
+    400028: Headstone 10
+    400030: Headstone 2
+    400032: Headstone 3
+    400034: Headstone 4
+    400036: Headstone 5
+    400038: Headstone 6
+    400040: Headstone 7
+    400042: Headstone 8
+    400044: Headstone 9
+    400046: Irone Fences 1
+    400048: Irone Fences2
+    400050: Lantern Post
+    400052: //RootNode
+    400054: Moseleum
+    400056: Moseleum Door
+    400058: Scythe
+    400060: Small Candle
+    400062: Small Candle Melted
+    400064: Sphere.002
+    400066: Spooky Pumpkin 1
+    400068: Spooky Pumpkin 2
+    400070: Stone Arche 1
+    400072: Stone Arche 2
+    400074: Stone Fence 1
+    400076: Stone Fence 2
+    400078: Wall Lantern
+    400080: Pumpkin
+    400082: Bat
+    400084: Candle Stand 2
+    400086: Candle Stand 3
+    400088: Coffin 1 Cover
+    400090: Coffin 2 Cover
+    400092: Coffin 3 Cover
+    400094: Ghost
+    400096: Pumpkin Cover
+    400098: Spooky Pumpkin 1 Cover
+    400100: Spooky Pumpkin 2 Cover
+    400102: Terain
+    2300000: Big Candel
+    2300002: Big Candle Melted
+    2300004: Candle Stand
+    2300006: Cemetary Tree 1
+    2300008: Cemetary Tree 2
+    2300010: Cemetary Tree 3
+    2300012: Coffin 1
+    2300014: Coffin 2
+    2300016: Coffin 3
+    2300018: Gate Left
+    2300020: Gate Right
+    2300022: Hand Candle Stand
+    2300024: Hand Lantern
+    2300026: Headstone 1
+    2300028: Headstone 10
+    2300030: Headstone 2
+    2300032: Headstone 3
+    2300034: Headstone 4
+    2300036: Headstone 5
+    2300038: Headstone 6
+    2300040: Headstone 7
+    2300042: Headstone 8
+    2300044: Headstone 9
+    2300046: Irone Fences 1
+    2300048: Irone Fences2
+    2300050: Lantern Post
+    2300052: Moseleum
+    2300054: Moseleum Door
+    2300056: Scythe
+    2300058: Small Candle
+    2300060: Small Candle Melted
+    2300062: Sphere.002
+    2300064: Spooky Pumpkin 1
+    2300066: Spooky Pumpkin 2
+    2300068: Stone Arche 1
+    2300070: Stone Arche 2
+    2300072: Stone Fence 1
+    2300074: Stone Fence 2
+    2300076: Wall Lantern
+    2300078: Pumpkin
+    2300080: Bat
+    2300082: Candle Stand 2
+    2300084: Candle Stand 3
+    2300086: Coffin 1 Cover
+    2300088: Coffin 2 Cover
+    2300090: Coffin 3 Cover
+    2300092: Ghost
+    2300094: Pumpkin Cover
+    2300096: Spooky Pumpkin 1 Cover
+    2300098: Spooky Pumpkin 2 Cover
+    2300100: Terain
+    3300000: Big Candel
+    3300002: Big Candle Melted
+    3300004: Candle Stand
+    3300006: Cemetary Tree 1
+    3300008: Cemetary Tree 2
+    3300010: Cemetary Tree 3
+    3300012: Coffin 1
+    3300014: Coffin 2
+    3300016: Coffin 3
+    3300018: Gate Left
+    3300020: Gate Right
+    3300022: Hand Candle Stand
+    3300024: Hand Lantern
+    3300026: Headstone 1
+    3300028: Headstone 10
+    3300030: Headstone 2
+    3300032: Headstone 3
+    3300034: Headstone 4
+    3300036: Headstone 5
+    3300038: Headstone 6
+    3300040: Headstone 7
+    3300042: Headstone 8
+    3300044: Headstone 9
+    3300046: Irone Fences 1
+    3300048: Irone Fences2
+    3300050: Lantern Post
+    3300052: Moseleum
+    3300054: Moseleum Door
+    3300056: Scythe
+    3300058: Small Candle
+    3300060: Small Candle Melted
+    3300062: Sphere.002
+    3300064: Spooky Pumpkin 1
+    3300066: Spooky Pumpkin 2
+    3300068: Stone Arche 1
+    3300070: Stone Arche 2
+    3300072: Stone Fence 1
+    3300074: Stone Fence 2
+    3300076: Wall Lantern
+    3300078: Pumpkin
+    3300080: Bat
+    3300082: Candle Stand 2
+    3300084: Candle Stand 3
+    3300086: Coffin 1 Cover
+    3300088: Coffin 2 Cover
+    3300090: Coffin 3 Cover
+    3300092: Ghost
+    3300094: Pumpkin Cover
+    3300096: Spooky Pumpkin 1 Cover
+    3300098: Spooky Pumpkin 2 Cover
+    3300100: Terain
+    4300000: Coffin 3
+    4300002: Moseleum Door
+    4300004: Sphere.002
+    4300006: Spooky Pumpkin 2
+    4300008: Spooky Pumpkin 1
+    4300010: Scythe
+    4300012: Stone Arche 1
+    4300014: Stone Arche 2
+    4300016: Candle Stand
+    4300018: Small Candle Melted
+    4300020: Small Candle
+    4300022: Hand Candle Stand
+    4300024: Big Candle Melted
+    4300026: Big Candel
+    4300028: Hand Lantern
+    4300030: Lantern Post
+    4300032: Wall Lantern
+    4300034: Stone Fence 1
+    4300036: Stone Fence 2
+    4300038: Gate Right
+    4300040: Gate Left
+    4300042: Irone Fences 1
+    4300044: Irone Fences2
+    4300046: Headstone 4
+    4300048: Cemetary Tree 1
+    4300050: Cemetary Tree 2
+    4300052: Cemetary Tree 3
+    4300054: Moseleum
+    4300056: Coffin 2
+    4300058: Coffin 1
+    4300060: Headstone 3
+    4300062: Headstone 7
+    4300064: Headstone 1
+    4300066: Headstone 6
+    4300068: Headstone 10
+    4300070: Headstone 2
+    4300072: Headstone 5
+    4300074: Headstone 8
+    4300076: Headstone 9
+    4300078: Pumpkin
+    4300080: Ghost
+    4300082: Bat
+    4300084: Candle Stand 2
+    4300086: Candle Stand 3
+    4300088: Coffin 1 Cover
+    4300090: Coffin 2 Cover
+    4300092: Coffin 3 Cover
+    4300094: Pumpkin Cover
+    4300096: Spooky Pumpkin 1 Cover
+    4300098: Spooky Pumpkin 2 Cover
+    4300100: Terain
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
